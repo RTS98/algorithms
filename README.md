@@ -1,10 +1,10 @@
-## Basic Algorithms
+# Basic Algorithms
 
 A repository to use as a cheatsheet for some basic algorithms written in C#.\
 I tried to write them as clear as I could in order to be understandable to everyone regardless of level.\
-For each algorithm you are going to find a section with a summary explanation.\
+For each algorithm you are going to find a section with a summary explanation.
 
-### Description
+## Description
 
 <details>
     <summary>Binary Search</summary>
@@ -89,7 +89,7 @@ For each algorithm you are going to find a section with a summary explanation.\
     <p>Search for hints. If there is a requirement to find the shortest distance then definitely use BFS. Otherwise DFS may be a better decision.</p>
 </details>
 
-### Reference
+# Reference
 
 As a reference I used this [book](https://www.manning.com/books/grokking-algorithms-second-edition).\
 For more details on every topic please check it out.
