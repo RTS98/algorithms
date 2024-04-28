@@ -1,8 +1,8 @@
 ## Basic Algorithms
 
-A repository to use as a cheatsheet for some basic algorithms written in C#.
-I tried to write them as clear as I could in order to be understandable to everyone regardless of level.
-For each algorithm you are going to find a section with a summary explanation.
+A repository to use as a cheatsheet for some basic algorithms written in C#.\
+I tried to write them as clear as I could in order to be understandable to everyone regardless of level.\
+For each algorithm you are going to find a section with a summary explanation.\
 
 ### Description
 
@@ -91,5 +91,5 @@ For each algorithm you are going to find a section with a summary explanation.
 
 ### Reference
 
-As a reference I used this [book](https://www.manning.com/books/grokking-algorithms-second-edition).
+As a reference I used this [book](https://www.manning.com/books/grokking-algorithms-second-edition).\
 For more details on every topic please check it out.
