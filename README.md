@@ -88,7 +88,6 @@ For each algorithm you are going to find a section with a summary explanation.
     <strong>Which one to choose?</strong>
     <p>Search for hints. If there is a requirement to find the shortest distance then definitely use BFS. Otherwise DFS may be a better decision.</p>
 </details>
-<br>
 
 ### Reference
 
